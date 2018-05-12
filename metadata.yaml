@@ -1,0 +1,30 @@
+_repo: '----_24141'
+_version: 0.1.0
+alternative_title: Jing Shi Tong Yan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Feng, Menglong
+    alias: 馮夢龍
+    birthdate: 1574
+    deathdate: 1646
+    gutenberg_agent_id: '26272'
+    url: http://www.gutenberg.org/2009/agents/26272
+    wikipedia: http://en.wikipedia.org/wiki/Feng_Menglong
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24141'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Short stories, Chinese'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+title: 警世通言
+url: http://www.gutenberg.org/ebooks/24141
